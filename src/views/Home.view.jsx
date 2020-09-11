@@ -1,8 +1,9 @@
 import React from 'react'
+import App from '../components/App' //se ele não encontrar o diretorio, ele procura no file index
 
 function HomeView() {
     return <div>
-        todo: home view
+        <App />
     </div>
 }
 
