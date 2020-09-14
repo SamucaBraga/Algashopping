@@ -14,6 +14,6 @@ export const Title = styled.h2`
 
 export const Array = styled.div`
  height: 424px;
-
+ 
  overflow-y: auto;
 `
